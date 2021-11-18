@@ -1,4 +1,4 @@
-##MSU TESTCASE
+## MSU TESTCASE
 ## Стек:
 * Python 3.9
 * Django 3.2
